@@ -2,6 +2,8 @@
 
 Python3 script which can fetch data from polish HBO Go content DB through their API, track changes between their DB and script's DB and post info about changes on Twitter in polish language.
 
+Living example: https://twitter.com/NowosciHBOGo
+
 ## Config
 
 There is a `config.ini` file, where you can set:
